@@ -1,65 +1,64 @@
-# Hi there 👋, I'm Islam Torky
+# Hey there! 👋 I'm Islam Torky
 
-🚀 **AI Enthusiast | Full-Stack AI Solutions Engineer | Active Learner**  
-📍 Based in Bonn, Germany  
-📧 [Islam.alaa.torky@gmail.com](mailto:Islam.alaa.torky@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)
+Hi! I’m Islam, a software engineer based in Bonn, Germany, with a strong passion for Machine Learning, Generative AI, and Deep Learning. My background spans a mix of data engineering, AI-powered solutions, and full-stack development.  
 
----
-
-## 👨‍💻 About Me
-
-Passionate about Machine Learning, Generative AI, and Deep Learning, I specialize in building cutting-edge AI solutions that solve real-world problems. With a background in software engineering and data engineering, I enjoy crafting scalable, efficient, and impactful applications across diverse industries.  
-
-Whether it's optimizing AI pipelines, developing end-to-end GenAI applications, or implementing retrieval-augmented generation systems, I’m always eager to explore and innovate in the AI landscape.  
+I enjoy building systems that solve real-world problems—whether that’s optimizing workflows, automating processes, or creating smarter ways to handle data. I’m always excited to learn, share knowledge, and collaborate on meaningful projects.  
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🔧 What I Do  
 
-### **Programming Languages**  
-- Python, Java, C#, JavaScript, Matlab, SQL, NoSQL  
+Here are some highlights of the things I work on:  
+
+- **Generative AI Applications:** I’ve built end-to-end AI solutions for industries like automotive, logistics, and manufacturing. These solutions leverage technologies such as Retrieval-Augmented Generation (RAG), OCR, and LLMs.  
+- **Document Intelligence Systems:** Developed tools that extract data from complex documents, reducing months of manual effort into minutes.  
+- **Recommendation Engines:** Designed intelligent systems that can recommend products based on customer descriptions and preferences.  
+- **Data Engineering:** Built and maintained robust ETL pipelines and dashboards for real-time insights using tools like Databricks and Azure Data Factory.  
+- **Ethical AI:** Implemented AI guardrails to ensure fairness and reduce bias in model outputs.  
+
+---
+
+## 🛠️ Skills & Tools  
+
+Here’s what I work with most often:  
+
+### **Languages**  
+Python, Java, C#, JavaScript, Matlab, SQL, NoSQL  
 
 ### **Frameworks & Tools**  
-- **AI/ML:** NLP, Retrieval-Augmented Generation (RAG), OCR, Statistics  
-- **Cloud & Databases:** Azure, AWS, GCP, Databricks, Vector Databases  
-- **DevOps:** Docker, Kubernetes, CI/CD, Poetry, Pydantic  
-- **Web & Data:** FastAPI, HTMX, PowerBI  
+- **AI/ML:** NLP, AI Guardrails, Retrieval-Augmented Generation, OCR  
+- **DevOps:** Docker, Kubernetes, CI/CD, Poetry  
+- **Data Tools:** Databricks, Azure Data Factory, Vector Databases (Qdrant, Pinecone)  
+- **Web Development:** FastAPI, HTMX  
+
+### **Cloud Platforms**  
+Azure, AWS, GCP  
 
 ---
 
-## 🌟 What I’ve Been Working On
+## 🌱 What I’m Learning  
 
-### 🧠 Generative AI Applications
-- Developed applications across industries such as logistics, automotive, and manufacturing.  
-- Enhanced user experience by reducing system latency significantly.  
-
-### 📄 Document Intelligence
-- Created an ontology-driven system for document parsing and specification extraction, cutting down manual effort from months to minutes.  
-
-### 🔍 Retrieval-Augmented Generation
-- Leveraged RAG techniques to design systems that provide robust, context-aware information retrieval.  
-
-### 🌐 Product Recommendation Engines
-- Built engines that deliver accurate recommendations based on user inquiries and product attributes.  
+I’m always exploring ways to improve my understanding of Generative AI and its applications. Right now, I’m diving deeper into:  
+- **LLM Optimization:** How to make large language models more efficient and scalable.  
+- **Vector Databases:** Improving search and retrieval performance using vector-based indexing.  
+- **Bias Mitigation:** Ethical considerations in AI development.  
 
 ---
 
-## 📚 Academic Pursuits & Research
+## 🎓 Academic & Research  
 
-🎓 **MSc in Digital Engineering (Computer Science)** - Bauhaus-Universität Weimar  
-💡 **Thesis:** Optimizing Information Retrieval with RAG, leveraging LlamaIndex and LangChain for enhanced data exploration (Qdrant).
+I’m currently wrapping up my **MSc in Digital Engineering (Computer Science)** at Bauhaus-Universität Weimar, Germany. My thesis focuses on using **Retrieval-Augmented Generation (RAG)** to enhance information retrieval, combining LlamaIndex, LangChain, and Qdrant for practical applications.  
 
-📜 **Publications:**  
-1. **"Embedding-based Stance and Persuasiveness Classification"** (ArgMining 2023 @ EMNLP)  
-2. **"Incorporating Machine Learning for Rapid Blast Resilience Assessment"** (EC3 2022)
-
----
-
-## 🤝 Let’s Collaborate!
-
-I’m always excited to contribute to open-source projects, collaborate on AI innovations, or just connect with like-minded individuals. Feel free to reach out!
+### Publications  
+- **"Embedding-based Stance and Persuasiveness Classification"** (ArgMining 2023 @ EMNLP)  
+- **"Incorporating Machine Learning for Rapid Blast Resilience Assessment"** (EC3 2022)  
 
 ---
-💼 [LinkedIn](https://www.linkedin.com/in/)  
-📂 [GitHub](https://github.com/)  
+
+## 🤝 Let’s Connect  
+
+If you’re into AI, data, or tech in general, let’s chat! I’d love to collaborate on interesting projects or contribute to open-source initiatives.  
+
+📧 **Email:** [Islam.alaa.torky@gmail.com](mailto:Islam.alaa.torky@gmail.com)  
+🌐 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/)  
+📂 **GitHub:** [Profile Link](https://github.com/)  
