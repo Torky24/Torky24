@@ -23,7 +23,7 @@ Here are some highlights of the things I work on:
 Here’s what I work with most often:  
 
 ### **Languages**  
-Python, JavaScript, SQL, NoSQL  
+Rust, Python, JavaScript, SQL, NoSQL  
 
 ### **Frameworks & Tools**  
 - **AI/ML:** NLP, AI Guardrails, Retrieval-Augmented Generation, OCR  
