@@ -1,18 +1,32 @@
-# Hey! I’m Islam 👋 
+# 👋 Hi, I’m Islam Torky
 
-Hi there, I’m Islam, an AI Engineer based in Bonn, Germany.  
-I’m passionate about **Machine Learning**, **Generative AI**, and **Deep Learning**, and I love building things that actually solve real world problems. That could mean automating boring the boring stuff, making smarter tools, or finding better ways to work with data.
+**Senior AI Engineer — Agentic Systems Specialist**  
+---
 
-I’ve worked in data engineering, AI-powered solutions, and full stack development, and I’m always up for learning, sharing ideas, and collaborating on meaningful projects.  
+## 🚀 About Me
+
+I’m a senior AI engineer passionate about building **agentic AI systems**, **retrieval-augmented generation (RAG)** pipelines, and AI-powered tools that actually solve real problems.  
+I love working at the intersection of machine learning, cloud infrastructure, and scalable systems — from concept to production.
+
+Currently, I’m designing and deploying **autonomous AI agents** and **dynamic RAG pipelines** for enterprise-grade solutions, while exploring the limits of LLMs and agentic orchestration.
 
 ---
 
-## 🔧 What I Work On  
+## 🛠️ What I Do
 
-Here are some of the projects I’ve been building recently  
+✨ Architect and build **AI-native systems** that go beyond static prompts  
+✨ Design **RAG pipelines** with optimized embeddings, chunking, and dynamic context  
+✨ Lead **agentic workflows** for multi-step decisions and tool integration  
+✨ Develop scalable **FastAPI services** to interface with LLMs and tools  
+✨ Ensure production-ready deployment with **CI/CD, observability, and MLOps**
 
-- **Generative AI Applications** — end to end AI solutions for industries like automotive, logistics, and manufacturing using RAG, OCR, and LLMs  
-- **Document Intelligence** — tools that extract data from messy and complex documents, turning months of manual work into minutes  
-- **Recommendation Systems** — smart engines that suggest products based on customer needs and preferences  
-- **Data Engineering** — robust ETL pipelines and dashboards for real time insights using Databricks and Azure Data Factory  
-- **Ethical AI** — adding guardrails to AI models to keep them fair and reduce bias  
+---
+
+## 📝 Experience Highlights
+
+#### Senior AI Engineer @ Neuland AI
+#### Computer Vision Researcher @ Fraunhofer IOF
+#### Data Engineer @ Mercedes-Benz Mobility
+---
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Torky24)
